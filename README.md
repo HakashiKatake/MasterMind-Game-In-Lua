@@ -8,5 +8,5 @@ To run the game you have to ensure you have love2D installed and working.
 Then open the files in editor and use this `love path/to/the/file` 
 #
 
-DONT do, love `Users/xyz/lua/main.lua` this will have an error.
-DO, love `Users/xyz/lua` till the folder. or just drag the folder in love2d app.
+DONT do, `love Users/xyz/lua/main.lua` this will have an error.
+DO, `love Users/xyz/lua` till the folder. or just drag the folder in love2d app.
